@@ -1,0 +1,15 @@
+Sample Accuracy Result
+
+Accuracy: 1.00
+
+Model Used: Decision Tree Classifier
+
+Training Completed Successfully.
+
+
+Sample confusion matrix
+
+                 Predicted
+               Pass   Fail
+Actual Pass      2      0
+Actual Fail      0      2
